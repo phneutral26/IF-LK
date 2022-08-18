@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=wuerfel
+comment1.params=anzahlSeiten
+comment1.target=wuerfel(int)
+comment1.text=\r\n\ Setzt\ die\ anzahl\ der\ Seiten,\ per\ Parameter\ bestimmt\r\n
+comment2.params=AS
+comment2.target=void\ setAS(int)
+comment3.params=AZ
+comment3.target=void\ setAZ(int)
+comment4.params=
+comment4.target=int\ getAS()
+comment5.params=
+comment5.target=int\ getAZ()
+comment6.params=
+comment6.target=int\ wuerfeln()
+comment6.text=\r\n\ Generiert\ eine\ zufaellige\ Zahl\ zwischen\ 1\ und\ 6,\ speichert\ diese\ in\ einem\ Attribut\r\n\ und\ wird\ dann\ ausgegeben.\r\n
+numComments=7
